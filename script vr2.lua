@@ -83,7 +83,7 @@ screenGui:Destroy()
 --------------------------------------------------------------------------------
 
 local successFluent, Fluent = pcall(function()
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Tubo-lite/refs/heads/main/Haidepzai"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/Anyabloxtraicay/Tubo-lite/2723272bab107611ac97e9ee11db94e5a29f5a8d/Haidepzai"))()
 end)
 
 local successSaveManager, SaveManager = pcall(function()
